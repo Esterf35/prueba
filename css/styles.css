@@ -7404,6 +7404,11 @@ textarea.form-control-lg {
 
 
 }
+.email{
+  text-align:center;
+  color:#F9F9F9!important;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1rem;
+}
 .text-muted3 {
   --bs-text-opacity: 1;
   text-align:center;
@@ -7413,6 +7418,11 @@ textarea.form-control-lg {
 .text-muted4{
   text-align:center;
   color:#F9F9F9;
+}
+.text-muted5{
+  text-align:center;
+  color:#0F1111;font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .text-muted2 {
   --bs-text-opacity: 1;text-align: center;
