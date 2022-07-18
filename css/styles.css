@@ -10943,6 +10943,20 @@ body {
 p {
   line-height: 1.75;
 }
+.page-section {
+  background-color:#e9ecef ;
+  padding: 1rem ;
+}
+
+.contacto1{
+  text-align: center;
+}
+.contenedor-contacto{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
 
 .page-section {background-color:#e9ecef ;
   padding: 4rem 0;
@@ -11429,7 +11443,7 @@ section#contact form#contactForm :-ms-input-placeholder {
       position: fixed;
       z-index: 999;
       border-radius:50%;
-      bottom: 10vh;
+      bottom: 15vh;
       right: 1vh;
       padding: 2.5vh;
       transition: ease 0.3s;
@@ -11513,7 +11527,7 @@ h1{
 }
 
 
-h3{
+h3.h5{
   font-size: 16px; 
   padding-bottom: 30px;
   color: #0e0e0e;text-align: center;
